@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/immersive_portals.json"
-hash = "c98f9001d3669bfb2d536aa505f0142fc737aa3dc1f0110eac098e0bfcecbfb3"
+hash = "5c02d391ab6ffdbc9698db4dec1092dc11225bb9a80e398c8ed4fb7b716e5c72"
 
 [[files]]
 file = "global_packs/required_data/dimensions-for-ecospherical-expansion-mod.pw.toml"
