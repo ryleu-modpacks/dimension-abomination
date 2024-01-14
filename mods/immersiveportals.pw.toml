@@ -1,0 +1,13 @@
+name = "Immersive Portals"
+filename = "immersive-portals-4.1.4-mc1.20.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJpHMkdD/versions/D8CjaYv1/immersive-portals-4.1.4-mc1.20.2-fabric.jar"
+hash-format = "sha1"
+hash = "0c5821e566431cf5eacfc520b7211a7eb39e1b51"
+
+[update]
+[update.modrinth]
+mod-id = "zJpHMkdD"
+version = "D8CjaYv1"

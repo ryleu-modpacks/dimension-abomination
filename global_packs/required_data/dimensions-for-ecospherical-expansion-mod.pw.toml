@@ -1,0 +1,13 @@
+name = "Immersive Portal Gun"
+filename = "Dimensional-Ecospherical-Expansion.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R8xDpQl0/versions/p6bDztbm/Dimensional-Ecospherical-Expansion.zip"
+hash-format = "sha1"
+hash = "9b23c66e23633a2bc0566bd453a8a37648827e79"
+
+[update]
+[update.modrinth]
+mod-id = "R8xDpQl0"
+version = "p6bDztbm"
