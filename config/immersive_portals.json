@@ -101,7 +101,7 @@
         "scale": 1.0,
         "flipped": false,
         "horizontalRotation": 0.0,
-        "bedrockReplacementStr": "minecraft:bedrock",
+        "bedrockReplacementStr": "minecraft:obsidian",
         "connectsPrevious": true,
         "connectsNext": false
       }
